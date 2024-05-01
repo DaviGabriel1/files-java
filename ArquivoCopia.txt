@@ -1,0 +1,1 @@
+transferir texto para arquivoCopia.txt
